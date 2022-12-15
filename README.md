@@ -18,3 +18,5 @@ Virustotal of Host: https://www.virustotal.com/gui/file/1b644cdb1c7247c07d810c0e
 
 Redline steal features like:
 Cookies, passwords, wallets, discord tokens, files from pc, autofills, User infos (User name, IP, PC spec, ZIP,), Credit Cards, Telegram, Steam and many more.
+
+![170255475-04fe28b1-7cc8-4d1a-908b-10aab58b70da](https://user-images.githubusercontent.com/120678114/207945326-aff2a23a-9a18-4f55-868d-47fc17ad7677.png)
